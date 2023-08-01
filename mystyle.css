@@ -1,0 +1,66 @@
+body{
+    background-image:url(descarga.jpeg);
+    background-repeat: unset;
+}
+#miinfo{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    border-color: rgb(7, 7, 7);
+    color: rgb(5, 2, 0);
+    background-color: #fff;
+    
+    
+}
+span{
+    color: rgb(247, 243, 5);
+    text-align: left;
+    background-color: black;
+}
+
+
+img {
+    image-orientation;
+    width: 120px;
+    height: auto;
+  }
+  nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .info {
+    text-align: left;
+    color: black;
+    font-family: the 'Times New Roman';
+    background-color: rgb(207, 241, 250);
+    padding: 10px;
+    display: inline-block;
+    max-width: 600px;
+  }
+
+  .tit{
+    color: black;
+    font-family: the 'Times New Roman';
+    background-color: rgb(246, 249, 250);
+    padding: 10px;
+    display: inline-block;
+    max-width: 600px;
+  }
+  
